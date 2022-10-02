@@ -5,7 +5,7 @@
 
 - :muscle: I believe in **Discipline**.
 
-- :iphone: Currently, I am learning mobile application development .
+- :iphone: Currently, I am learning mobile application development.
 
 - :woman_technologist: I am looking for a web development job. 
 
