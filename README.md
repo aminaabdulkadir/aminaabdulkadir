@@ -3,7 +3,7 @@
 
 #### My name is Amina Abdulkadir, I am an enthusiastic full stack web developer and a lifelong learner :star2:
 
-- :muscle: I believe in **Discipline**.
+- :chart_with_upwards_trend: I believe in **Discipline**.
 
 - :iphone: Currently, I am learning mobile application development.
 
