@@ -1,7 +1,7 @@
 # Hello World!! :star_struck:
 
 
-### My name is Amina Abdulkadir, I am an enthusiastic Full-Stack Web Developer & Software Quality Engineer & Data Engineer and a lifelong learner :star2:
+### My name is Amina Abdulkadir, I am an enthusiastic Data Engineer & Full-Stack Web Developer & Software Quality Engineer, and a lifelong learner :star2:
 
 - :chart_with_upwards_trend: I believe in **Discipline**.
 
